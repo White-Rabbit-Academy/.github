@@ -1,10 +1,15 @@
 ## Hi there 👋
 
+Alors premièrement, c'est quoi la **White Rabbit Academy** 🐇 ? 
 
-🙋‍♀️ A short introduction - ready to learn tech ?
+C'est une formation dans le monde de l'informatique *open source*. On sait que l'open source fait ses preuves, et on veut démontrer qu'il est complètement possible de proposer une formation de la base à un level hardcore complément open source et collaboratif.
 
-🌈 Contribution guidelines - not yet implemented :)
+Si tu es un(e) étudiant(e) et/ou souhaites le devenir dans le domaine de l'informatique, ou tu souhaites juste apprendre certains concepts sur le sujet, apprends via notre formation ! 
 
-👩‍💻 Useful resources - you can ask help in the general discussion
+Si tu souhaites toi aussi apporter ta patte dans le domaine et contribuer à un ou plusieurs cours n'hésite pas !
 
-🍿 Fun facts - This org is not yet sponsor by icetea but soon !
+Ce projet est porté bénévolement par cette personne: [Sn0wAlice](https://github.com/Sn0wAlice)
+
+<p align="center">
+  <img src="./main.gif">
+</p>
