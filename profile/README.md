@@ -11,5 +11,5 @@ Si tu souhaites toi aussi apporter ta patte dans le domaine et contribuer à un 
 Ce projet est porté bénévolement par cette personne: [Sn0wAlice](https://github.com/Sn0wAlice)
 
 <p align="center">
-  <img src="./main.gif">
+  <img src="https://github.com/White-Rabbit-Academy/.github/blob/main/main.gif?raw=true">
 </p>
