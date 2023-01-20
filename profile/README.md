@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Alors premièrement, c'est quoi la **White Rabbit Academy** 🐇 ? 
+Alors premièrement, c'est quoi la **White Rabbit Academy** 🐇 
 
 C'est une formation dans le monde de l'informatique *open source*. On sait que l'open source fait ses preuves, et on veut démontrer qu'il est complètement possible de proposer une formation de la base à un level hardcore complément open source et collaboratif.
 
@@ -13,3 +13,5 @@ Ce projet est porté bénévolement par cette personne: [Sn0wAlice](https://gith
 <p align="center">
   <img src="https://github.com/White-Rabbit-Academy/.github/blob/main/main.gif?raw=true">
 </p>
+
+Tu commences ? C'est [ici](https://github.com/White-Rabbit-Academy/01-Portfolio)
