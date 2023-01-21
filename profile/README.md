@@ -11,7 +11,7 @@ Si tu es un(e) étudiant(e) et/ou souhaites le devenir dans le domaine de l'info
 Si tu souhaites toi aussi apporter ta patte dans le domaine et contribuer à un ou plusieurs cours n'hésite pas ! [Comment faire ? clique ici](https://github.com/orgs/White-Rabbit-Academy/discussions/3)
 
 ### 📚 On commence ?
-Tu commences ? C'est bon ? Alors clique [ici](https://github.com/White-Rabbit-Academy/Ma-formation)
+Tu commences ? C'est bon ? Alors c'est [ici](https://github.com/White-Rabbit-Academy/Ma-formation)
 <p align="center">
   <img src="https://github.com/White-Rabbit-Academy/.github/blob/main/main.gif?raw=true">
 </p>
