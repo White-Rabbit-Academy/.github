@@ -6,12 +6,12 @@ C'est une formation dans le monde de l'informatique *open source*. On sait que l
 
 
 ### 🧸 Pour Qui ?
-Si tu es un(e) étudiant(e) et/ou souhaites le devenir dans le domaine de l'informatique, ou tu souhaites juste apprendre certains concepts sur le sujet, apprends via une de [nos formations](https://github.com/White-Rabbit-Academy/Ma-formation) ! 
+Si tu es un(e) étudiant(e) et/ou souhaites le devenir dans le domaine de l'informatique, ou tu souhaites juste apprendre certains concepts sur le sujet, apprends via une de [nos formations](https://school.alice-snow.me/) ! 
 
 Si tu souhaites toi aussi apporter ta patte dans le domaine et contribuer à un ou plusieurs cours n'hésite pas ! [Comment faire ? clique ici](https://github.com/orgs/White-Rabbit-Academy/discussions/3)
 
 ### 📚 On commence ?
-Tu commences ? C'est bon ? Alors c'est [ici](https://github.com/White-Rabbit-Academy/Ma-formation)
+Tu commences ? C'est bon ? Alors c'est [ici](https://school.alice-snow.me/)
 <p align="center">
   <img src="https://github.com/White-Rabbit-Academy/.github/blob/main/main.gif?raw=true">
 </p>
